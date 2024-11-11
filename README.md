@@ -94,4 +94,4 @@ Follow these steps to set up the project locally:
 Feel free to reach out for questions or contributions!
 
 - *Email*: support@sbfoods.com
-- *GitHub*: https://github.com/SnehaHari07/sb-foods.git
+- *GitHub*: https://github.com/vandanadscet/sb-foods.git
